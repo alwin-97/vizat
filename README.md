@@ -21,3 +21,5 @@ All the commands are to be run from the home folder of vizat, also the commands 
 The main project modules include the following. The more detailed description of the modules and the funcitons of each components will be found in the document section in the repository.
 
 Anyone who is intrested to contribute to this project can reachout to me. This project however is an own initiative.
+
+Further documentation about the tool is available on the docs directory in the source repository. People intrested on working on the project go through the documentations created and made available.
