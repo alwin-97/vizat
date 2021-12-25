@@ -16,6 +16,8 @@ The project can be started with the following set of commands
 
         python3 manage.py runserver
 
+More developemnt information is present in the <a href="docs/documentation.md">docs/documentation.md</a> file in the docs folder.
+
 All the commands are to be run from the home folder of vizat, also the commands are to be run in the same terminal one after other.
 
 The main project modules include the following. The more detailed description of the modules and the funcitons of each components will be found in the document section in the repository.
