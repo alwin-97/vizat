@@ -17,3 +17,7 @@ def faq(request):
 
 def about(request):
     return render(request, 'main/about.html')
+
+
+def login(request):
+    return render(request, 'accounts/login.html')

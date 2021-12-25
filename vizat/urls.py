@@ -23,4 +23,7 @@ urlpatterns = [
     path('faq', mainviews.faq, name='faq'),
     path('about', mainviews.about, name='about'),
     path('features', mainviews.features, name='features'),
+
+
+    path('user/login', mainviews.login, name='user/login'),
 ]
