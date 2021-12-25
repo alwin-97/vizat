@@ -20,4 +20,7 @@ from vizat_main import views as mainviews
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', mainviews.index, name='index'),
+    path('faq', mainviews.faq, name='faq'),
+    path('about', mainviews.about, name='about'),
+    path('features', mainviews.features, name='features'),
 ]
